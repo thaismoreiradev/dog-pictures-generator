@@ -1,0 +1,1 @@
+A minimal image generator for dogs & cats. Using two differents apis, javascript vanilla and pure css for style. You can run it and get a couple of laughts :) [check now](https://thais-moreira-pet-images-generator.netlify.app/)
